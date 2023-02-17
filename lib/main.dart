@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_screen/src/shared/themes/color_schemes.g.dart';
+import 'package:login_screen/views/home_page_cards.dart';
 import 'components/add_new_card.dart';
 
 void main() {
@@ -34,7 +35,7 @@ class MyApp extends StatelessWidget {
           )
         )
       ),
-      home: const AddNewCardScreen(),
+      home: HomePageCards(),
     );
     
   }

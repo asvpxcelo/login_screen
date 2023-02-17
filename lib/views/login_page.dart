@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_screen/components/my_textfield.dart';
 import 'package:login_screen/src/shared/themes/color_schemes.g.dart';
-import 'package:login_screen/views/home_page_top.dart';
 import 'package:lottie/lottie.dart';
 import '../components/my_loggin_button.dart';
 
